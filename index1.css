@@ -2,7 +2,7 @@
 * @Author: 沉沦
 * @Date:   2018-12-18 21:56:15
 * @Last Modified by:   沉沦
-* @Last Modified time: 2018-12-29 15:35:52
+* @Last Modified time: 2019-01-06 11:55:49
 */
 .all{
 	width: 1330px;
@@ -577,7 +577,7 @@
 	}
 	#img2{
 		position:absolute;
-		right:500px;top:245px;
+		left:565px;top:245px;
 		display:none; 
 		width:410px;height:410px;
 		overflow:hidden;z-index: 9;
